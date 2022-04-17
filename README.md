@@ -1,7 +1,7 @@
 ### Opa, Bão 🤙🏼?
 ### Meu nome é Brayan Wilis
 ### Sou dev Full Stack, atualmente trabalho na empresa Cav-Inc
-<div ><br>
+<div>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
