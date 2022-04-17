@@ -1,5 +1,5 @@
 ### Opa, Bão 🤙🏼?
-<div style="display: inline_block, margin: 30px"><br>
+<div style="display: inline_block; margin: 30px"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
