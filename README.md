@@ -1,4 +1,6 @@
 ### Opa, Bão 🤙🏼?
+### Meu nome é Brayan Wilis
+### Sou dev Full Stack, atualmente trabalho na empresa Cav-Inc
 <div style="display: inline_block; margin: 30px"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -6,6 +8,8 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+
 <div align="flex-start" style="display: inline_block; margin: 30px">
   <a href="https://github.com/buraym">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=buraym&show_icons=true&include_all_commits=true&count_private=true"/>
