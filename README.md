@@ -7,7 +7,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+</div><br>
 <div astyle="display: flex; margin: 30px">
   <a href="https://github.com/buraym">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=buraym&show_icons=true&include_all_commits=true&count_private=true"/>
