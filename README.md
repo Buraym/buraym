@@ -1,7 +1,7 @@
 ### Opa, Bão 🤙🏼?
-Meu nome é Brayan Wilis
-Sou estudante do curso de Engenharia de Software e sou dev Full Stack
-Atualmente trabalho na empresa Cav-Inc
+### Meu nome é Brayan Wilis
+### Sou estudante do curso de Engenharia de Software e sou dev Full Stack
+### Atualmente trabalho na empresa Cav-Inc
 <div>
   Tecnologias que domino
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
