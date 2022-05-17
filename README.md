@@ -1,7 +1,6 @@
-<>
-<div>
-  <img align="center" height="220" width="550" src="imgs/img.png">
-</div>
+
+
+<img align="center" height="220" width="550" src="imgs/img.png">
 ### Opa, Bão 🤙🏼?
 ### Meu nome é Brayan Wilis
 ### Sou estudante do curso de Engenharia de Software e sou dev Full Stack
@@ -20,4 +19,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=buraym&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buraym&layout=compact&langs_count=7"/>
 </div>
-</>
