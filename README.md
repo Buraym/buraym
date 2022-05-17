@@ -1,6 +1,6 @@
 
 
-<img align="center" height="220" width="750" src="imgs/img.png">
+<img align="center" height="260" width="800" src="imgs/img.png">
 ### Opa, Bão 🤙🏼?
 ### Meu nome é Brayan Wilis
 ### Sou estudante do curso de Engenharia de Software e sou dev Full Stack
