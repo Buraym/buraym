@@ -1,9 +1,3 @@
-
-<div>
-<img align="center" height="260" width="800" src="imgs/img.png">
-
-</div>
-
 ### Opa, Bão 🤙🏼?
 ### Meu nome é Brayan Wilis
 ### Sou estudante do curso de Engenharia de Software e sou dev Full Stack
