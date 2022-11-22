@@ -15,7 +15,7 @@
 </div><br>
 <div style="display: flex; margin: 30px">
   <a href="https://github.com/buraym">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=buraym&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Buraym&theme=vue&hide_border=true&border_radius=5&locale=pt-br&date_format=j%2Fn%5B%2FY%5D" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buraym&layout=compact&langs_count=7"/>
+  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=buraym&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Buraym&theme=vue&hide_border=true&border_radius=5&locale=pt-br&date_format=j%2Fn%5B%2FY%5D" />
+  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buraym&layout=compact&langs_count=7"/>
 </div>
