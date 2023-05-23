@@ -1,7 +1,6 @@
 ### Opa, Tudo bem 🤙🏼? Meu nome é Brayan Wilis
 ### Sou estudante do curso de Engenharia de Software e sou dev Full Stack
-#### Tenho 21 anos, atualmente com 1 ano e meio de experiência profissional na area de TI
-#### Atualmente estou trabalhando com Web design, como Catalogos, Landing Page, e outros tipos de produto, alem de estar aprendendo a programar com frameworks como Django e NextJS, NestJS.
+#### Tenho 21 anos, atualmente com 1 ano e meio de experiência profissional na area de TI, trabalhando com Criação de Software porem majoritariamente Web design, como desenvolvimento de Catalogos, Landing Page, e outros tipos de produto, alem de estar aprendendo a programar com frameworks como Django e NextJS, NestJS.
 
 <div>
   Tecnologias que domino
