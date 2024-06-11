@@ -1,6 +1,6 @@
 ## Opa, Tudo bem 🤙🏼? Meu nome é Brayan Wilis
 ### Sou estudante do curso de Engenharia de Software e sou analista de sistemas e dev Full Stack
- Tenho 21 anos, nasci e cresci em Foz do Iguaçu, no Paraná.  Atualmente com 2 anos de experiência profissional na area de TI, trabalhando com Criação de Software porem majoritariamente Web design, como desenvolvimento de Catalogos, Landing Page, e outros tipos de produto, como aplicações  mobile, desktop e servidores.
+ Tenho 22 anos, nasci e cresci em Foz do Iguaçu, no Paraná.  Atualmente com 2 anos de experiência profissional na area de TI, trabalhando com Criação de Software porem majoritariamente Web design, como desenvolvimento de Catalogos, Landing Page, e outros tipos de produto, como aplicações  mobile, desktop e servidores.
 
 <div>
   Tecnologias que domino
