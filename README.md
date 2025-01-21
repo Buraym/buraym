@@ -13,6 +13,8 @@
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/denojs/denojs-original.svg" title="Deno">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel JS">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue JS">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg" title="Tauri">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
 </div>
 <br>
 <div style="display: flex; margin: 30px">
