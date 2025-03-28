@@ -18,7 +18,7 @@
 </div>
 <br>
 <div style="display: flex; margin: 30px">
-  <a href="https://github.com/buraym">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Buraym&theme=vue&hide_border=true&border_radius=5&locale=pt-br&date_format=j%2Fn%5B%2FY%5D" />
-  <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=buraym&layout=compact&langs_count=7"/>
+  <p><img align="left" style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=buraym&show_icons=true&locale=en&layout=compact" alt="buraym" /></p>
+  <p>&nbsp;<img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api?username=buraym&show_icons=true&locale=en" alt="buraym" /></p>
+  <p><img align="center" style="height:150px" src="https://github-readme-streak-stats.herokuapp.com/?user=buraym" alt="buraym" /></p>
 </div>
